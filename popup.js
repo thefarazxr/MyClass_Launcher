@@ -1,0 +1,1 @@
+//this extension wont use any js
