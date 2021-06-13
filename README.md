@@ -1,5 +1,6 @@
 ![](/images/icon_150.png)
 # MyClass_Launcher
+## [Add to CHROME](https://chrome.google.com/webstore/detail/kblnilmcdjaojaidjdppiekbnlpchekf)
 ## Created on Jun 12, 2021 
 ### I made this extension to join my Online Classes very quickly! 
 #### Currently works only for my classmates!
