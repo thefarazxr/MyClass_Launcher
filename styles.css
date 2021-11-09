@@ -82,17 +82,19 @@ img {
     color: #0E857A;
 }
 
-.Java {
+.Softeng {
     margin-left: 5px;
 }
 
-.CO,
-.M-3,
-.SS,
-.ETCE {
+.OS,
+.WIT,
+.AI,
+.Graph {
     margin-left: 10px;
 }
-
+.Graph{
+    margin-left:-1px;
+}
 .co_set,
 .ss_set,
 .dbms_set,
@@ -100,13 +102,15 @@ img {
     margin-left: -15px;
 }
 
-.dbms_set,
-.fa_set {
+.alc_set,
+.data_set {
     margin-right: 0px;
 }
 
-.java_set,
-.m3_set,
-.etce_set {
+.softeng_set,
+.wit_set {
     margin-left: 5px;
+}
+.wit_set{
+    margin-left: -2px;
 }
